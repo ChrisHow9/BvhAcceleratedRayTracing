@@ -1,2 +1,10 @@
-# Ray tracing with accelaration 
-Software Ray-Tracer with BVH structure generation and acceleration for given triangle mesh
+# Dissertation Project
+
+g++ main.cpp --std=c++17 
+to compile 
+
+time to render scene and other data output to terminal and csv file.
+
+Main version of code in folder newRay with bvh structure as outlined in report
+
+
