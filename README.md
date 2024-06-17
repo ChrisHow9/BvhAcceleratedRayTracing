@@ -1,6 +1,9 @@
 # Dissertation Project for ray tracing with bvh structure
 
 ## How to compile
+
+Uses c++ 17 features so a example of how to compile would be:
+
 g++ main.cpp --std=c++17 
 
 ## Information
