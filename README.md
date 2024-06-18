@@ -1,5 +1,7 @@
 # Dissertation Project for ray tracing with bvh structure
 
+![Bounding volumes](https://github.com/ChrisHow9/BvhAcceleratedRayTracing/blob/main/readme/CaptureRay.PNG)
+
 ## How to compile
 
 Uses c++ 17 features so a example of how to compile would be:
